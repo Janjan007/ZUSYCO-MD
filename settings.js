@@ -16,11 +16,11 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "923405597632",
-  SUDO_NUMBERS : "923405597632,923030823055",
-  OWNER_NAME: "『 ZEENU 』",
-  BOT_NAME : "CAT BOT",
-  ZUSYCO_FILE : "ZUSYCO-QR",
+  OWNER_NUMBER: "923143117892",
+  SUDO_NUMBERS : "923143117892",
+  OWNER_NAME: "『 😘ZEENU❤️ 』",
+  BOT_NAME : " 💞CAT BOT💗",
+  ZUSYCO_FILE : "Friendship-MZ",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
@@ -33,10 +33,10 @@ module.exports = {
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/karachi",
   WORK_TYPE : "public",
-  WORK_MODE : "personal&groups",
+  WORK_MODE : "personal,groups",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ZEENU ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ZEENU ]',
+  STICKER_PACK : '[ 😘 ZEENU ❤️ ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
@@ -44,11 +44,11 @@ module.exports = {
   ANTI_LINK_KICK : false,
   MAX_SIZE : 100,
   MOROCCO_NUMBERS : {
-        BLOCK : false,
+        BLOCK : true,
         NOT_WORKING : false,
   },
   READ : {
-     ALL_MESSAGES : true,
+     ALL_MESSAGES : false,
      ONLY_COMMANDS : false,
      STATUS : false,
   },
